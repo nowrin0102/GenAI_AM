@@ -1,10 +1,7 @@
-Square Open Source Portal
+#Generative Artificial Intelligence (GenAI) in Additive Manufacturing (AM)
 =========================
 
-[![Build Status](https://travis-ci.org/square/square.github.io.svg?branch=master)](https://travis-ci.org/square/square.github.io)
-
-A simple, static portal which outlines our open source offerings. Intentionally
-themed to look like a Square merchant page on the directory.
+Exploration Of Generative AI in additive Manufacturing
 
 
 Development
